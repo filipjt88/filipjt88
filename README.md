@@ -24,7 +24,7 @@ As a passionate Front-End Developer, I enjoy creating interactive and user-frien
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
-**Backend / base**
+**Backend / database**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
@@ -50,16 +50,16 @@ CRM/user administration with validation, API communication and database storage.
 🔹 **[Blog aplication](https://github.com/filipjt88/blog_app)**
 This application is a simple Content Management System (CMS) for blog posts, built using PHP, MySQL, Bootstrap and JavaScript. It allows users to read and comment on posts, while admin users can create, edit and delete posts.
 
-Users
+*** Users ***
 User registration and login ✅
 Overview of published blog posts ✅
 Adding comments to posts ✅
 
-*** 🛠️ Admin panel
+*** 🛠️ Admin panel ***
 Creating, editing and deleting posts ✅
 Manage comments (optional) ✅
-*** 📄 Posts
 
+*** 📄 Posts ***
 Title, short description and main content ✅
 Automatic publication date ✅
 Categories or Tags (optional) ✅
