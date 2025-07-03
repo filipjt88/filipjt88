@@ -44,10 +44,10 @@ A fullstack WebShop application built in React + PHP (API) + MySQL.
 A social network built with PHP, JavaScript, AJAX and Bootstrap.
 Registration, login, comments, posts, user profiles.
 
-🔹 **[User Manager](https://github.com/filipjotic/user-manager-php-api)**
+🔹 **[User Managment system](github.com/filipjt88/userManagmentSystem)**
 CRM/user administration with validation, API communication and database storage.
 
-🔹**[Blog app](https://github.com/filipjt88/blog_app) **
+🔹**[Blog aplication](https://github.com/filipjt88/blog_app) **
 This application is a simple Content Management System (CMS) for blog posts, built using PHP, MySQL, Bootstrap and JavaScript. It allows users to read and comment on posts, while admin users can create, edit and delete posts.
 
 Users
