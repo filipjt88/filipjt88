@@ -47,7 +47,7 @@ Registration, login, comments, posts, user profiles.
 🔹 **[User Managment system](github.com/filipjt88/userManagmentSystem)**
 CRM/user administration with validation, API communication and database storage.
 
-🔹**[Blog aplication](https://github.com/filipjt88/blog_app) **
+🔹 **[Blog aplication](github.com/filipjt88/blog_app)**
 This application is a simple Content Management System (CMS) for blog posts, built using PHP, MySQL, Bootstrap and JavaScript. It allows users to read and comment on posts, while admin users can create, edit and delete posts.
 
 Users
