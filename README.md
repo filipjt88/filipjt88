@@ -37,7 +37,7 @@ As a passionate Front-End Developer, I enjoy creating interactive and user-frien
 
 ## 📌 Highlight projects
 
-🔹 **[MegaStoreFullStack](https://github.com/filipjotic/megastorefullstack)**
+🔹 **[MegaStoreFullStack](https://github.com/filipjt88/MegaStoreFullStack)**
 A fullstack WebShop application built in React + PHP (API) + MySQL.
 
 🔹 **[Social Network App](https://github.com/filipjotic/social-network-app)**
