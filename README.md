@@ -47,9 +47,22 @@ Registration, login, comments, posts, user profiles.
 🔹 **[User Manager](https://github.com/filipjotic/user-manager-php-api)**
 CRM/user administration with validation, API communication and database storage.
 
-🔹 **[Todo List App](https://github.com/filipjotic/todo-list-php-js)**
-A simple task management app with front-end validation and back-end support.
+🔹**[blog_app] **
+This application is a simple Content Management System (CMS) for blog posts, built using PHP, MySQL, Bootstrap and JavaScript. It allows users to read and comment on posts, while admin users can create, edit and delete posts.
 
+Users
+User registration and login ✅
+Overview of published blog posts ✅
+Adding comments to posts ✅
+
+*** 🛠️ Admin panel
+Creating, editing and deleting posts ✅
+Manage comments (optional) ✅
+*** 📄 Posts
+
+Title, short description and main content ✅
+Automatic publication date ✅
+Categories or Tags (optional) ✅
 ---
 
 ## 📫 Contact
