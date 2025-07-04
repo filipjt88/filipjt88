@@ -63,7 +63,7 @@ Manage comments (optional) ✅
 Title, short description and main content ✅
 Automatic publication date ✅
 Categories or Tags (optional) ✅
----
+
 
 ## 📫 Contact
 
