@@ -23,12 +23,12 @@ Here are a few featured projects:
 > Personal blog engine with post creation, user registration/login, built using PHP and JavaScript.
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tvoj-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipjt88&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact
-- 📧 Email: filip@example.com
+- 📧 Email: filipjotic.dev@gmail.com
 - 🌐 Portfolio: [filipjotic.dev](https://filipjotic.dev)
 - 💼 LinkedIn: [linkedin.com/in/filipjotic](https://linkedin.com/in/filipjotic)
 
