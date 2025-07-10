@@ -45,8 +45,17 @@ Here are a few featured projects:
 ### ✍️ [Blog Platform](https://github.com/tvoj-username/blog-app)
 > Personal blog engine with post creation, user registration/login, built using PHP and JavaScript.
 
+
 ## 📈 GitHub Stats
-![Filip Jotić's GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipjt88&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filipjt88&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Filip Jotić GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipjt88&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com/?user=filipjotic&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
