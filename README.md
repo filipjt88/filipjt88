@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/WAMP-FF4088?style=flat-square&logo=windows&logoColor=white" alt="WAMP"/>
+<img src="https://img.shields.io/badge/XAMPP-FF4088?style=flat-square&logo=windows&logoColor=white" alt="WAMP"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
 
