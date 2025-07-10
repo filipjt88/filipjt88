@@ -50,7 +50,7 @@ Here are a few featured projects:
 
 ---
 
-## 📫 Contact
+## 📫 Contact me:
 - 📧 Email: filipjotic.dev@gmail.com
 - 🌐 Portfolio: [filipjotic.dev](https://filipjotic.dev)
 - 💼 LinkedIn: [linkedin.com/in/filipjotic](https://linkedin.com/in/filipjotic)
