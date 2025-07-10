@@ -53,7 +53,7 @@ Here are a few featured projects:
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipjt88&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=filipjotic&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=filipjt88&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
