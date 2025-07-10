@@ -1,73 +1,35 @@
-## Hi there 👋 I'm **Filip Jotić**
-🎯 Front-End Developer | 💻 JavaScript & React Enthusiast | 🌐 Web Enthusiast
+# 👋 Hi there, I'm Filip Jotić
 
-Welcome to my GitHub profile!
-As a passionate Front-End Developer, I enjoy creating interactive and user-friendly web applications using modern technologies such as **JavaScript (ES6+), React, HTML5, CSS3**, or with experience in **PHP/MySQL** for fullstack projects.
+🎯 Frontend Web Developer with over 3 years of experience, focused on building responsive and user-friendly interfaces using **React**, **JavaScript**, **HTML**, **CSS**, and **Bootstrap**.
 
----
+🚀 I'm currently working on fullstack applications using **React** + **PHP/Laravel**, aiming to build real-world commercial apps like CRM, webshop, and blog platforms.
 
-## 🧠 About me in brief
+## 🔧 Tech Stack
+- 🧠 **Languages**: JavaScript (ES6+), PHP, HTML5, CSS3, SQL
+- ⚛️ **Frontend**: React, Bootstrap, Tailwind (po potrebi)
+- 🗄️ **Backend**: PHP (Laravel, pure PHP), MySQL, REST API
+- 🧰 **Tools**: Git, WebStorm, VS Code, WAMP, Figma, WordPress (custom & Elementor)
 
-- 💼 More than **3 years of experience** in developing client applications
-- 🚀 Focused on building **SPA (Single Page Applications)** and responsive design
-- 🧩 Excellent skills in **UX/UI thinking**, as well as working with **REST API**
-- 💬 Communicative, responsible and team-oriented
-- 🔁 Constantly learning and improving — currently mastering **Laravel** and advanced **React**
+## 📌 Projects
+Here are a few featured projects:
 
----
+### 🛒 [MegaStoreFullStack](https://github.com/tvoj-username/megastorefullstack)
+> Fullstack eCommerce app with React frontend and PHP + MySQL backend. Features include cart, user auth, product management, and order system.
 
-## 🛠 Technologies and tools that I use
+### 🧠 [CRM Application](https://github.com/tvoj-username/crm-app)
+> Customer management system with login, user roles, search/sort/filter, responsive UI, built using PHP MVC + Bootstrap.
 
-**Frontend**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+### ✍️ [Blog Platform](https://github.com/tvoj-username/blog-app)
+> Personal blog engine with post creation, user registration/login, built using PHP and JavaScript.
 
-**Backend / database**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
-**Other**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tvoj-username&show_icons=true&theme=radical)
 
 ---
-
-## 📌 Highlight projects
-
-🔹 **[MegaStoreFullStack](https://github.com/filipjt88/MegaStoreFullStack)**
-A fullstack WebShop application built in React + PHP (API) + MySQL.
-
-🔹 **[Social Network App](https://github.com/filipjt88/facebook_app)**
-A social network built with PHP, JavaScript, AJAX and Bootstrap.
-Registration, login, comments, posts, user profiles.
-
-🔹 **[User Managment system](github.com/filipjt88/userManagmentSystem)**
-CRM/user administration with validation, API communication and database storage.
-
-🔹 **[Blog aplication](https://github.com/filipjt88/blog_app)**
-This application is a simple Content Management System (CMS) for blog posts, built using PHP, MySQL, Bootstrap and JavaScript. It allows users to read and comment on posts, while admin users can create, edit and delete posts.
-
-*** Users ***
-User registration and login ✅
-Overview of published blog posts ✅
-Adding comments to posts ✅
-
-*** 🛠️ Admin panel ***
-Creating, editing and deleting posts ✅
-Manage comments (optional) ✅
-
-*** 📄 Posts ***
-Title, short description and main content ✅
-Automatic publication date ✅
-Categories or Tags (optional) ✅
-
 
 ## 📫 Contact
+- 📧 Email: filip@example.com
+- 🌐 Portfolio: [filipjotic.dev](https://filipjotic.dev)
+- 💼 LinkedIn: [linkedin.com/in/filipjotic](https://linkedin.com/in/filipjotic)
 
-- 📧 filip88ks@gmail.com
-- 🌍 Location: Serbia (remote)
-
-
+---
