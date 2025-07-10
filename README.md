@@ -46,15 +46,25 @@ Here are a few featured projects:
 > Personal blog engine with post creation, user registration/login, built using PHP and JavaScript.
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipjt88&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Filip Jotić GitHub Stats" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=filipjt88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
+
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipjt88&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipjt88&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=400" alt="Top Languages" />
+
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=filipjt88&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=filipjt88&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+
 </p>
+
 
 
 ---
