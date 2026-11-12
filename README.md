@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Filip Jotić
 
-🎯 Frontend Web Developer with over 3 years of experience, focused on building responsive and user-friendly interfaces using **JavaScript**, **React**, , **Next.js**
+🎯 Frontend Web Developer with over 3 years of experience, focused on building responsive and user-friendly interfaces using **JavaScript**, **TypeScript**,  **React**, , **Next.js**
 
 🚀 I'm currently working on fullstack applications using **React** + **PHP/Laravel**, aiming to build real-world commercial apps like CRM, webshop, and blog platforms.
 
